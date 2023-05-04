@@ -1,13 +1,14 @@
 .header__container {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
+  margin: 0 auto;
+  max-width: 1152px;
+  padding: 35px 15px;
 }
 
 .desktop__menu {
   display: flex;
+  justify-content: flex-end;
   gap: 33px;
-  padding: 27px 60px 158px 0;
+  padding: 0 35px 158px 0;
 }
 
 .desktop__menu a {

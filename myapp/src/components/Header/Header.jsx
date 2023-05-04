@@ -7,7 +7,7 @@ const Header = () => {
     bmMenuWrap: {
       width: '100%',
       background: '#edf7fa',
-      height: '18%',
+      height: '120px',
     },
 
     bmBurgerButton: {
