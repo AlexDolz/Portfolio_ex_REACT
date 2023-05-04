@@ -34,6 +34,10 @@ const Header = () => {
       padding: '10px',
       fontSize: '22px',
     },
+    bmOverlay: {
+      background: 'lightgray',
+      opacity: 0.15,
+    },
 
     bmItemList: {
       color: '#b8b7ad',
