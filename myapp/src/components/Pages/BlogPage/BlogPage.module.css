@@ -1,0 +1,14 @@
+.blog__section__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  color: #21243d;
+  padding-bottom: 55px;
+}
+
+@media (max-width: 738px) {
+  .blog__section__title {
+    font-size: 30px;
+    padding-bottom: 18px;
+  }
+}

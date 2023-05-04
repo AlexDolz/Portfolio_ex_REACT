@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 26px;
+  padding-bottom: 54px;
+}
+
+.footer__icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.icon:hover {
+  color: #ff6464;
+}
+
+.footer__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #21243d;
+}

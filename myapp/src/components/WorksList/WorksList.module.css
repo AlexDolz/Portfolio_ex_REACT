@@ -1,0 +1,22 @@
+.works__container {
+  padding-bottom: 134px;
+}
+
+.works__title {
+  padding-top: 15px;
+  padding-bottom: 22px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 60px;
+  color: #21243d;
+}
+
+@media (max-width: 738px) {
+  .works__title {
+    font-size: 18px;
+    text-align: center;
+  }
+  .works__container {
+    padding-bottom: 150px;
+  }
+}
